@@ -6,8 +6,8 @@ public.ecr.aws/docker/library/busybox:1.37.0@sha256:37f7b378a29ceb4c551b1b5582e2
 public.ecr.aws/docker/library/debian:stable-slim@sha256:00a24d7c50ebe46934e31f6154c0434e2ab51259a65e028be42413c636385f7f
 public.ecr.aws/docker/library/golang:1.22.11-alpine@sha256:161858498a61ce093c8e2bd704299bfb23e5bff79aef99b6c40bb9c6a43acf0f
 public.ecr.aws/docker/library/mysql:8@sha256:23818b7d7de427096ab1427b2e3d9d5e14a5b933f9a4431a482d6414bc879091
-public.ecr.aws/docker/library/node:22-alpine@sha256:9bef0ef1e268f60627da9ba7d7605e8831d5b56ad07487d24d1aa386336d1944
-public.ecr.aws/docker/library/node:22@sha256:a1f1274dadd49738bcd4cf552af43354bb781a7e9e3bc984cfeedc55aba2ddd8
+public.ecr.aws/docker/library/node:22.16.0@sha256:71bcbb3b215b3fa84b5b167585675072f4c270855e37a599803f1a58141a0716
+public.ecr.aws/docker/library/node:22.16.0@sha256:71bcbb3b215b3fa84b5b167585675072f4c270855e37a599803f1a58141a0716
 public.ecr.aws/docker/library/python:3.13.3-alpine21@sha256:18159b2be11db91f84b8f8f655cd860f805dbd9e49a583ddaac8ab39bf4fe1a7
 public.ecr.aws/docker/library/python:3.13.3-slim@sha256:914bf5c12ea40a97a78b2bff97fbdb766cc36ec903bfb4358faf2b74d73b555b
 public.ecr.aws/ebs-csi-driver/aws-ebs-csi-driver:v1.40.0@sha256:4a6aa3d48a5a9939af7d78cace630fc097aa44fb68822cbbc7729a4a538410c3
