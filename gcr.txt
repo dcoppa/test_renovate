@@ -1,4 +1,4 @@
-gcr.io/go-containerregistry/crane:debug@sha256:94f61956845714bea3b788445454ae4827f49a90dcd9dac28255c4cccb6220ad
+gcr.io/go-containerregistry/crane:debug@sha256:fbdf6d55c5ae90d9ae637b9bd9f10119496fdf18a3b5f9cd3078ae6044161c18
 gcr.io/go-containerregistry/krane:debug@sha256:1eee12687036350fc464361da052867242435bee6ded590ffa9992cfd0dc5a07
 gcr.io/kaniko-project/executor:v1.23.2-debug@sha256:c3109d5926a997b100c4343944e06c6b30a6804b2f9abe0994d3de6ef92b028e
 gcr.io/kubecost1/cost-model:prod-2.6.3@sha256:9e507ac0aebbb50c17e66228ec494af8c124726246d8925bcad21527168fb87a
