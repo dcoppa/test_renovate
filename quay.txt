@@ -1,6 +1,6 @@
 quay.io/jetstack/cert-manager-acmesolver:v1.15.3@sha256:71468feed486c4cf3ca431d93f996771531ab2e68f261f1a15be845720802a8a
 quay.io/jetstack/cert-manager-cainjector:v1.15.3@sha256:e0ce8ae280c8d7263663b6a6d3ea5e122632936cde9bdd5321cf7109199f51aa
-quay.io/jetstack/cert-manager-controller:v1.15.3@sha256:eee34b3de2dd63f7e5ac459fc2d407662d433fd267d574557b76ee3c7d4bc44f
+quay.io/jetstack/cert-manager-controller:v1.18.1@sha256:aed7274ed7007d8be144253978807453391d2b8b3a634ef9a6eb4e720f866239
 quay.io/jetstack/cert-manager-startupapicheck:v1.15.3@sha256:4cbc1b022a2385ce98d454dfc206834a26a3bb07d1d0b581cdc50c34a6bf927d
 quay.io/jetstack/cert-manager-webhook:v1.15.3@sha256:fdcb9ac4963fa1bb0c9d7cad38f0ba2c65328aa436f8653c998594d936a96488
 quay.io/kiwigrid/k8s-sidecar:1.30.0@sha256:9a326271c439b6f9e174f3b48ed132bbff71c00592c7dbd072ccdc334445bde2
