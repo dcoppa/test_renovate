@@ -1,0 +1,26 @@
+{
+  "$schema": "https://docs.renovatebot.com/renovate-schema.json",
+  "dependencyDashboard": true,
+  "assigneesFromCodeOwners": true,
+  "pinDigests": true,
+  "hostRules": [
+    {
+      "timeout": 10000
+    }
+  ],
+  "lockFileMaintenance": {
+    "enabled": true
+  },
+  "customManagers": [
+    {
+      "customType": "regex",
+      "managerFilePatterns": [
+        "/^[a-z0-9].*\\.txt$/"
+      ],
+      "matchStrings": [
+        "(?:^|\\n)(?<depName>[^:\\n]+):(?<currentValue>[^@\\n]+)@(?<currentDigest>sha256:[a-f0-9]{64})"
+      ],
+      "datasourceTemplate": "docker"
+    }
+  ]
+}

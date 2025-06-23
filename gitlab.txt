@@ -1,0 +1,4 @@
+registry.gitlab.com/gitlab-org/cloud-deploy/aws-base:v0.3.11@sha256:91773d7cc5afdac8aa8a5c305ba2263fc76de483ba4b00a035cf71436f8ad2a0
+registry.gitlab.com/gitlab-org/gitlab-runner/gitlab-runner-helper:x86_64-v17.8.3@sha256:8c4e35e367b14cd487e6ae8a4e9b8f819aa0b89eebc879cf9b90d933199b1d09
+registry.gitlab.com/gitlab-org/gitlab-runner:alpine-v18.0.2@sha256:9ad104f9d2bf61bdf6f491e0af67da5f51dbb192c23b664d5c44096671f3180f
+registry.gitlab.com/go-semantic-release/semantic-release:2.31.0@sha256:43f2fd02c91254791bff745f23afc2953c43b0a107fa17b338e7ca81762e1c21
