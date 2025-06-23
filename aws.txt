@@ -14,5 +14,5 @@ public.ecr.aws/ebs-csi-driver/aws-ebs-csi-driver:v1.40.0@sha256:4a6aa3d48a5a9939
 public.ecr.aws/eks/aws-load-balancer-controller:v2.9.0@sha256:cd593533d076ab59340412bee9eead49885e5e7b5f0a4a2840fd57e88bc2f29e
 public.ecr.aws/hashicorp/terraform:1.10.1@sha256:e2253e8196510ea0335702eaa26cf5acf12a2aae46bf8ec51e936cd536f482d9
 public.ecr.aws/karpenter/controller:1.2.4@sha256:974b1b1d0ac560a2dc45547c6985245299ebc61cc0baadccf5fe078e6f39eba4
-public.ecr.aws/lambda/python:3.13@sha256:6163db246a3595eaa5f2acf88525aefa3837fa54c6c105a3b10d18e7183b2d2b
+public.ecr.aws/lambda/python:3.13.2025.06.19.12@sha256:01a68895b1eab3e6fe7a37dcc71f65791c353c5c76aed65c6c8cb5977033e575
 public.ecr.aws/nginx/nginx-unprivileged:alpine@sha256:d43566af1caeaf6d16d4880f587cdeb9e0efe172aad1d1d43ca4ce0fa304e293
