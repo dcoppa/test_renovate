@@ -1,4 +1,5 @@
 public.ecr.aws/amazonlinux/amazonlinux:2023@sha256:ff1fad724e2ef77b8851124cbc35204d1defe63128f077021a2b3e459fcd866f
+public.ecr.aws/amazonlinux/amazonlinux:2.0@sha256:4d5db6e15db78e6794b4a4f0c04fea76c3c785ec1dcde31bc9307361017fe21f
 public.ecr.aws/bitnami/kubectl:1.31.4@sha256:5aff30a8f2e6327dd40b705aa08eac7536532a0a6fa44361851832dee225596f
 public.ecr.aws/bitnami/kubectl:1.32.4@sha256:afa49c1188463a57caefbfc5c68bc110a54f143ad11de1472f15161e11ae383f
 public.ecr.aws/docker/library/busybox:1.37.0@sha256:37f7b378a29ceb4c551b1b5582e27747b855bbfaa73fa11914fe0df028dc581f
