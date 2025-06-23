@@ -27,7 +27,7 @@
     {
       "matchDatasources": ["docker"],
       "matchPackageNames": ["public.ecr.aws/amazonlinux/amazonlinux"],
-      "versioning": "loose"
+      "versioning": "regex:^(?<major>\\d+)$"
     }
   ]
 }
