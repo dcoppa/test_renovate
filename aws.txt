@@ -9,7 +9,7 @@ public.ecr.aws/docker/library/node:22-alpine@sha256:9bef0ef1e268f60627da9ba7d760
 public.ecr.aws/docker/library/node:22@sha256:a1f1274dadd49738bcd4cf552af43354bb781a7e9e3bc984cfeedc55aba2ddd8
 public.ecr.aws/docker/library/python:3.13.3-alpine21@sha256:18159b2be11db91f84b8f8f655cd860f805dbd9e49a583ddaac8ab39bf4fe1a7
 public.ecr.aws/docker/library/python:3.13.3-slim@sha256:914bf5c12ea40a97a78b2bff97fbdb766cc36ec903bfb4358faf2b74d73b555b
-public.ecr.aws/ebs-csi-driver/aws-ebs-csi-driver:v1.40.0@sha256:4a6aa3d48a5a9939af7d78cace630fc097aa44fb68822cbbc7729a4a538410c3
+public.ecr.aws/ebs-csi-driver/aws-ebs-csi-driver:v1.45.0@sha256:4abf896ae655e49cc5f9d33ffb185bb543b8a271f3cac3a11ae0b8a1b6bdc10a
 public.ecr.aws/eks/aws-load-balancer-controller:v2.9.0@sha256:cd593533d076ab59340412bee9eead49885e5e7b5f0a4a2840fd57e88bc2f29e
 public.ecr.aws/hashicorp/terraform:1.10.1@sha256:e2253e8196510ea0335702eaa26cf5acf12a2aae46bf8ec51e936cd536f482d9
 public.ecr.aws/karpenter/controller:1.2.4@sha256:974b1b1d0ac560a2dc45547c6985245299ebc61cc0baadccf5fe078e6f39eba4
