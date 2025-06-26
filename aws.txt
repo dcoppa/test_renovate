@@ -1,6 +1,6 @@
 public.ecr.aws/amazonlinux/amazonlinux:2023@sha256:ff1fad724e2ef77b8851124cbc35204d1defe63128f077021a2b3e459fcd866f
-public.ecr.aws/bitnami/kubectl:1.31.4@sha256:5aff30a8f2e6327dd40b705aa08eac7536532a0a6fa44361851832dee225596f
-public.ecr.aws/bitnami/kubectl:1.32.4@sha256:afa49c1188463a57caefbfc5c68bc110a54f143ad11de1472f15161e11ae383f
+public.ecr.aws/bitnami/kubectl:1.33.1@sha256:72d25ce645c8cb79ee303d8e360679d78770206fb5ab889d705cb4d82d84510e
+public.ecr.aws/bitnami/kubectl:1.33.1@sha256:72d25ce645c8cb79ee303d8e360679d78770206fb5ab889d705cb4d82d84510e
 public.ecr.aws/docker/library/busybox:1.37.0@sha256:37f7b378a29ceb4c551b1b5582e27747b855bbfaa73fa11914fe0df028dc581f
 public.ecr.aws/docker/library/debian:stable-slim@sha256:00a24d7c50ebe46934e31f6154c0434e2ab51259a65e028be42413c636385f7f
 public.ecr.aws/docker/library/golang:1.22.11-alpine@sha256:161858498a61ce093c8e2bd704299bfb23e5bff79aef99b6c40bb9c6a43acf0f
