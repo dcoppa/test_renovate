@@ -22,12 +22,5 @@
       ],
       "datasourceTemplate": "docker"
     }
-  ],
-  "packageRules": [
-    {
-      "matchDatasources": ["docker"],
-      "matchPackageNames": ["public.ecr.aws/amazonlinux/amazonlinux"],
-      "versioning": "regex:^(?<major>\\d+)$"
-    }
   ]
 }
