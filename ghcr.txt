@@ -5,7 +5,7 @@ ghcr.io/kyverno/cleanup-controller:v1.14.1@sha256:2d817ecc38761449a194ae74a212c4
 ghcr.io/kyverno/kyverno-cli:v1.14.1@sha256:591dcdafc5d5e4ba4d9a5f8d59975af73fd4a8f93fdab6398aacec0f0f65783e
 ghcr.io/kyverno/kyverno:v1.14.1@sha256:26f5735a41a64610a810c94299ad0c750a547407c54029bfbe6d1c0baf1d2c7e
 ghcr.io/kyverno/kyvernopre:v1.14.1@sha256:3b4897cd791b58717d86886333371babfc57210570db4e4c0da2e6e3e583a499
-ghcr.io/kyverno/reports-controller:v1.14.1@sha256:3dd8a8ae61afe82b5ca2fecc1a283d471f27f9c77b30eff18437a2bdb969e40c
+ghcr.io/kyverno/reports-controller:v1.14.4@sha256:e833e4299bddf9447f551d6e1b78b72a270ee9eaaf217e00fd762c14ce2bd00e
 ghcr.io/open-telemetry/opentelemetry-collector-releases/opentelemetry-collector-k8s:0.123.1@sha256:f5a4188caa4e02762dfac8d734aa48ba6f7d61f593afb52b0b96008c244b9bc2
 ghcr.io/renovatebot/renovate:40.36.8@sha256:703a7c09abffb3f013ab8589a905017c699ae2e5fcb620d386f39be921714bcd
 ghcr.io/stakater/reloader:v1.4.2@sha256:812a190d6d531b96e1451e6571b0e42edfbc9295ec101315a48f31bfe442f6eb
