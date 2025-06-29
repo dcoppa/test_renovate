@@ -9,4 +9,4 @@ ghcr.io/kyverno/reports-controller:v1.14.1@sha256:3dd8a8ae61afe82b5ca2fecc1a283d
 ghcr.io/open-telemetry/opentelemetry-collector-releases/opentelemetry-collector-k8s:0.123.1@sha256:f5a4188caa4e02762dfac8d734aa48ba6f7d61f593afb52b0b96008c244b9bc2
 ghcr.io/renovatebot/renovate:40.36.8@sha256:703a7c09abffb3f013ab8589a905017c699ae2e5fcb620d386f39be921714bcd
 ghcr.io/stakater/reloader:v1.4.2@sha256:812a190d6d531b96e1451e6571b0e42edfbc9295ec101315a48f31bfe442f6eb
-ghcr.io/terraform-linters/tflint:v0.56.0@sha256:102aa738eb7af25d6e6cdf814b9301de151bf4a2bab41c7d304fddd61d6a4b6d
+ghcr.io/terraform-linters/tflint:v0.58.0@sha256:9207be6e528a4695074c6708c0693a726e92d7296e8eef3b8a8c15cc4bee3018
