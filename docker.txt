@@ -7,7 +7,7 @@ bash:5.2.32@sha256:05de6634ac35e4ac2edcb1af21889cec8afcc3798b11a9d538a6f0c315608
 bats/bats:1.11.0@sha256:e8f18e0acd4ea933bf019130b85033be75e8ce081db299e93578de83d7874e33
 bitnami/kubernetes-event-exporter:1.7.0-debian-12-r33@sha256:330d01903e7b07a7ec1bc6d396b4522fb3e06732855dd47fdb62fb23e256b98a
 bitnami/redis-exporter:1.62.0-debian-12-r2@sha256:47ed8f1c531b19408b72ffdcdcd9637bb79ca41ca7ab1bb7291baad394081cf4
-bitnami/redis:7.2.5-debian-12-r4@sha256:5d40f47b5af692fd4f50474d94acd8821f0795a24fa2ab7a757cdfc82c37da1c
+bitnami/redis:7.4.2-debian-12-r4@sha256:83d5c765b68bdd01603ea5cbad96abc196e37fb875dc2e9fb8b9bdcce59d13d5
 boky/postfix-exporter:edge@sha256:a12e67b28d095101923a785d946f817943a26f0442623c2558a1d0d507dacbce
 boky/postfix:4.2.1@sha256:f9f9c5feec238ae391ec475fd2cf392cef69a8b4794800d4ff697ffc668a9c95
 bridgecrew/checkov:3.2.402@sha256:4b375874617ee315bab7e31f2ed18ba7b820b733b6c2d636d2ed48976a72509b
