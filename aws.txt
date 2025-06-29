@@ -14,4 +14,4 @@ public.ecr.aws/eks/aws-load-balancer-controller:v2.9.0@sha256:cd593533d076ab5934
 public.ecr.aws/hashicorp/terraform:1.10.1@sha256:e2253e8196510ea0335702eaa26cf5acf12a2aae46bf8ec51e936cd536f482d9
 public.ecr.aws/karpenter/controller:1.2.4@sha256:974b1b1d0ac560a2dc45547c6985245299ebc61cc0baadccf5fe078e6f39eba4
 public.ecr.aws/lambda/python:3.13@sha256:6163db246a3595eaa5f2acf88525aefa3837fa54c6c105a3b10d18e7183b2d2b
-public.ecr.aws/nginx/nginx-unprivileged:alpine@sha256:d43566af1caeaf6d16d4880f587cdeb9e0efe172aad1d1d43ca4ce0fa304e293
+public.ecr.aws/nginx/nginx-unprivileged:alpine@sha256:7d08b5908fac662945fa592ad9deb2e232e22ecb99a7b557648d5f86f6cae8fd
