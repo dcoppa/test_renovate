@@ -2,7 +2,7 @@ public.ecr.aws/amazonlinux/amazonlinux:2023@sha256:ff1fad724e2ef77b8851124cbc352
 public.ecr.aws/bitnami/kubectl:1.31.4@sha256:5aff30a8f2e6327dd40b705aa08eac7536532a0a6fa44361851832dee225596f
 public.ecr.aws/bitnami/kubectl:1.32.4@sha256:afa49c1188463a57caefbfc5c68bc110a54f143ad11de1472f15161e11ae383f
 public.ecr.aws/docker/library/busybox:1.37.0@sha256:37f7b378a29ceb4c551b1b5582e27747b855bbfaa73fa11914fe0df028dc581f
-public.ecr.aws/docker/library/debian:stable-slim@sha256:00a24d7c50ebe46934e31f6154c0434e2ab51259a65e028be42413c636385f7f
+public.ecr.aws/docker/library/debian:stable-slim@sha256:50db38a20a279ccf50761943c36f9e82378f92ef512293e1239b26bb77a8b496
 public.ecr.aws/docker/library/golang:1.22.11-alpine@sha256:161858498a61ce093c8e2bd704299bfb23e5bff79aef99b6c40bb9c6a43acf0f
 public.ecr.aws/docker/library/mysql:8@sha256:23818b7d7de427096ab1427b2e3d9d5e14a5b933f9a4431a482d6414bc879091
 public.ecr.aws/docker/library/node:22-alpine@sha256:9bef0ef1e268f60627da9ba7d7605e8831d5b56ad07487d24d1aa386336d1944
