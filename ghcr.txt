@@ -3,7 +3,7 @@ ghcr.io/external-secrets/external-secrets:v0.15.1@sha256:6d7fcb0f6f3c40bf5f5980b
 ghcr.io/kyverno/background-controller:v1.14.1@sha256:ac57e49d228d7b90de1bc745410292b490d2e49724638927c4cedb27b88c04a7
 ghcr.io/kyverno/cleanup-controller:v1.14.1@sha256:2d817ecc38761449a194ae74a212c415b792862ee83365a2508c25f43bf5164e
 ghcr.io/kyverno/kyverno-cli:v1.14.1@sha256:591dcdafc5d5e4ba4d9a5f8d59975af73fd4a8f93fdab6398aacec0f0f65783e
-ghcr.io/kyverno/kyverno:v1.14.1@sha256:26f5735a41a64610a810c94299ad0c750a547407c54029bfbe6d1c0baf1d2c7e
+ghcr.io/kyverno/kyverno:v1.14.4@sha256:39e6c358e16809eeb0ea517250a0c2295f6f76aed828e8406eca8e88c9e9f4b7
 ghcr.io/kyverno/kyvernopre:v1.14.1@sha256:3b4897cd791b58717d86886333371babfc57210570db4e4c0da2e6e3e583a499
 ghcr.io/kyverno/reports-controller:v1.14.1@sha256:3dd8a8ae61afe82b5ca2fecc1a283d471f27f9c77b30eff18437a2bdb969e40c
 ghcr.io/open-telemetry/opentelemetry-collector-releases/opentelemetry-collector-k8s:0.123.1@sha256:f5a4188caa4e02762dfac8d734aa48ba6f7d61f593afb52b0b96008c244b9bc2
