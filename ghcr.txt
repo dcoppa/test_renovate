@@ -1,7 +1,7 @@
 ghcr.io/aquasecurity/node-collector:0.3.1@sha256:f4702ce4667388f0219d6248d623a7e816231c2d4561d6af01c3ae053e524025
 ghcr.io/external-secrets/external-secrets:v0.15.1@sha256:6d7fcb0f6f3c40bf5f5980b9b9b0ef6bf89de7c1867a0de8d463b78024b80890
 ghcr.io/kyverno/background-controller:v1.14.1@sha256:ac57e49d228d7b90de1bc745410292b490d2e49724638927c4cedb27b88c04a7
-ghcr.io/kyverno/cleanup-controller:v1.14.1@sha256:2d817ecc38761449a194ae74a212c415b792862ee83365a2508c25f43bf5164e
+ghcr.io/kyverno/cleanup-controller:v1.14.4@sha256:c7b56b4bb9f08e12856a3efc15d6eee0b2bbe974435de7d761b9c096c37d96a9
 ghcr.io/kyverno/kyverno-cli:v1.14.1@sha256:591dcdafc5d5e4ba4d9a5f8d59975af73fd4a8f93fdab6398aacec0f0f65783e
 ghcr.io/kyverno/kyverno:v1.14.1@sha256:26f5735a41a64610a810c94299ad0c750a547407c54029bfbe6d1c0baf1d2c7e
 ghcr.io/kyverno/kyvernopre:v1.14.1@sha256:3b4897cd791b58717d86886333371babfc57210570db4e4c0da2e6e3e583a499
