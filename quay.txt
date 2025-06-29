@@ -7,6 +7,6 @@ quay.io/kiwigrid/k8s-sidecar:1.30.0@sha256:9a326271c439b6f9e174f3b48ed132bbff71c
 quay.io/prometheus-operator/prometheus-config-reloader:v0.80.0@sha256:9f8ffd1eb787120225ab11e8a6b59d92b716fadf5f50924a0a1f9e9f5b71508d
 quay.io/prometheus-operator/prometheus-config-reloader:v0.81.0@sha256:959d47672fbff2776a04ec62b8afcec89e8c036af84dc5fade50019dab212746
 quay.io/prometheus-operator/prometheus-operator:v0.80.0@sha256:83b3705f139e7799c8fefef81ce96161bcd0a328187d829cf26836339d8802d7
-quay.io/prometheus/node-exporter:v1.9.0@sha256:c99d7ee4d12a38661788f60d9eca493f08584e2e544bbd3b3fca64749f86b848
+quay.io/prometheus/node-exporter:v1.9.1@sha256:d00a542e409ee618a4edc67da14dd48c5da66726bbd5537ab2af9c1dfc442c8a
 quay.io/prometheus/prometheus:v3.1.0@sha256:6559acbd5d770b15bb3c954629ce190ac3cbbdb2b7f1c30f0385c4e05104e218
 quay.io/tigera/operator:v1.36.2@sha256:fc9ea45f2475fd99db1b36d2ff180a50017b1a5ea0e82a171c6b439b3a620764
