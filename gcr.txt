@@ -4,7 +4,7 @@ gcr.io/kaniko-project/executor:v1.23.2-debug@sha256:c3109d5926a997b100c4343944e0
 gcr.io/kubecost1/cost-model:prod-2.6.3@sha256:9e507ac0aebbb50c17e66228ec494af8c124726246d8925bcad21527168fb87a
 gcr.io/kubecost1/frontend:prod-2.6.3@sha256:a535f7de024ba952e0335ae83b3bdedc8050f9b75fa1035823f53742f1daf331
 gcr.io/kubecost1/kubecost-modeling:v0.1.24@sha256:a2259b098b1371c4f19a0b2b20d8fdee9f05cacccc65b487325f17b6b2dc23f8
-gcr.io/kubecost1/kubecost-network-costs:v0.17.6@sha256:ab6a54c53fd8741d5f908d8b9f6f96237f7a9474327fb95526ba9e816c592d04
-gcr.io/kubecost1/kubecost-network-costs:v0.17.9@sha256:76768b864e12d8f1c04dcb1c9dfbba0a6a91e961ee82c5f8d6b8a8cc59f8a4bb
+gcr.io/kubecost1/kubecost-network-costs:v0.17.10@sha256:f85125c6e4de6fffcdad161780ef3b6cb6e0a2b405af1d5cb66785eb7a21a3db
+gcr.io/kubecost1/kubecost-network-costs:v0.17.10@sha256:f85125c6e4de6fffcdad161780ef3b6cb6e0a2b405af1d5cb66785eb7a21a3db
 mirror.gcr.io/aquasec/trivy-operator:0.27.1@sha256:74122bc82aef183353705bdf12339f66dd1aaf352e2de43057d5903e74a0e055
 mirror.gcr.io/aquasec/trivy:0.63.0@sha256:6fb0646988fcd2fdf7bf123f7174945ebc2c9c72d1fa1567c8d7daeeb70f8037
