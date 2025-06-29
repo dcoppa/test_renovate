@@ -1,4 +1,4 @@
 registry.k8s.io/external-dns/external-dns:v0.14.0@sha256:474077b3dfccb3021db0a6638274967d0f64ce60dd9730a6f464bee2f78b046f
 registry.k8s.io/ingress-nginx/kube-webhook-certgen:v1.5.1@sha256:0de05718b59dc33b57ddfb4d8ad5f637cefd13eafdec0e1579d782b3483c27c3
-registry.k8s.io/kube-state-metrics/kube-state-metrics:v2.14.0@sha256:37d841299325c23b56e5951176ce8ef317d537447c0f1b2d2437dddbb1f51165
+registry.k8s.io/kube-state-metrics/kube-state-metrics:v2.16.0@sha256:e750cd4b43f782e3106537026c2995cac85d921aedea334e1d16caad7877c360
 registry.k8s.io/metrics-server/metrics-server:v0.7.2@sha256:ffcb2bf004d6aa0a17d90e0247cf94f2865c8901dcab4427034c341951c239f9
